@@ -1,0 +1,11 @@
+import java.util.*;
+
+public class Practice2 {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int area = x * x;
+
+        System.out.println("Area of a square is : " + area);
+    }
+}

@@ -10,3 +10,8 @@ public class Practice1 {
         System.out.println("Average is : " + average);
     }
 }
+
+/*
+ * Question : n a program, input 3 numbers : A, B and C. You have to output the
+ * average of these 3 numbers.
+ */
